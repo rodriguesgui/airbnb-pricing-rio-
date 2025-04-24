@@ -86,8 +86,10 @@ Você pode baixar os arquivos necessários diretamente do [Google Drive](https:/
 
 > ⚠️ **Nota**: Os arquivos `.csv` de treino não estão incluídos no repositório por excederem o limite do GitHub. Para utilizar o projeto, baixe os datasets manualmente e coloque-os na pasta `dataset/`.
 
+
+
 Para executar o app corretamente, também é necessário baixar o arquivo `dados.csv` e colocá-lo dentro da pasta `app/`.
-Link para o Download do Arquivo dados.csv: (https://drive.google.com/drive/folders/1HCX0480h23uc0_HhSBCmZhH2ecJFXciE?usp=drive_link)
+Link para o Download do Arquivo dados.csv do [Google Drive](https://drive.google.com/drive/folders/1HCX0480h23uc0_HhSBCmZhH2ecJFXciE?usp=drive_link)
 ---
 
 ## ✨ Autor
