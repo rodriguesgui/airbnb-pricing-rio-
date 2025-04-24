@@ -15,19 +15,19 @@ Este projeto utiliza Machine Learning para prever o preço de imóveis no Rio de
 
 ## 📂 Estrutura do Projeto
 
+```
 airbnb-pricing-rio/
-│
-├── notebooks/             # Jupyter Notebooks com análise e desenvolvimento
+├── notebooks/         # Jupyter Notebooks com análise e desenvolvimento
 │   └── airbnb_modelo.ipynb
-│
-├── dataset/               # Dados históricos para treinamento do modelo
-│
-├── app/                   # Aplicação em Streamlit e modelo treinado
-│   ├── dados.csv          # Arquivo de dados utilizado para a previsão
-│   ├── modelo.joblib      # Modelo treinado
-│   └── app.py             # Código do app em Streamlit
-│
-└── README.md              # Documentação do projeto
+├── dataset/           # Dados históricos para treinamento do modelo (adicione os CSVs manualmente)
+│   └── .gitkeep       # Mantém a pasta no repositório
+├── app/               # Aplicação em Streamlit e modelo treinado
+│   ├── dados.csv      # Arquivo de dados utilizado para a previsão
+│   ├── modelo.joblib  # Modelo treinado
+│   └── app.py         # Código do app em Streamlit
+└── README.md          # Documentação do projeto
+```
+
 
 
 
@@ -66,7 +66,12 @@ Joblib: Salvamento e carregamento do modelo treinado.
 ## Download dos Arquivos
 Você pode baixar os arquivos necessários diretamente do [Google Drive] e coloque dentro da pasta dataset(https://drive.google.com/drive/folders/1pzUiazh12EwBc7Lu5L0o-4wX4g9V5ybU?usp=drive_link).
 
+📌 Nota: Os arquivos CSV não estão incluídos no repositório por excederem o limite do GitHub. Para utilizar o projeto, baixe os datasets manualmente e coloque-os na pasta dataset/.
+
+
 ✨ Autor
 Guilherme Rodrigues de Quadros
+
 📧 Email: guilhermeddq@gmail.com
+
 📱 LinkedIn: https://www.linkedin.com/in/guilhermedequadros/
