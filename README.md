@@ -84,14 +84,16 @@ Veja o funcionamento do app em tempo real:
 
 Você pode baixar os arquivos necessários diretamente do [Google Drive](https://drive.google.com/drive/folders/1pzUiazh12EwBc7Lu5L0o-4wX4g9V5ybU?usp=drive_link).
 
-> ⚠️ **Nota**: Os arquivos `.csv` de treino não estão incluídos no repositório por excederem o limite do GitHub. Para utilizar o projeto, baixe os datasets manualmente e coloque-os na pasta `dataset/`.
+> ⚠️ **Nota**: Os arquivos `.csv` de treino não estão incluídos no repositório por excederem o limite de tamanho do GitHub. Para utilizar o projeto, baixe os datasets manualmente e coloque-os na pasta `dataset/`.
 
-
-
-Para executar o app corretamente, também é necessário baixar o arquivo `dados.csv` e colocá-lo dentro da pasta `app/`.
-Link para o Download do Arquivo dados.csv do [Google Drive](https://drive.google.com/drive/folders/1HCX0480h23uc0_HhSBCmZhH2ecJFXciE?usp=drive_link)
 ---
 
+### Para executar o app corretamente, também é necessário:
+
+- Baixar o arquivo `dados.csv` e colocá-lo dentro da pasta `app/`.
+- Link para o download do arquivo `dados.csv`: [Google Drive](https://drive.google.com/drive/folders/1HCX0480h23uc0_HhSBCmZhH2ecJFXciE?usp=drive_link)
+
+---
 ## ✨ Autor
 
 **Guilherme Rodrigues de Quadros**
