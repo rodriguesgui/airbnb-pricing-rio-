@@ -30,6 +30,8 @@ airbnb-pricing-rio/
 └── README.md              # Documentação do projeto
 
 
+
+
 📦 Como rodar o projeto localmente
 1 - Clone o repositório:
 
@@ -60,6 +62,9 @@ Scikit-learn: Modelo de machine learning.
 Streamlit: Framework para criação de aplicativos interativos.
 
 Joblib: Salvamento e carregamento do modelo treinado.
+
+## Download dos Arquivos
+Você pode baixar os arquivos necessários diretamente do [Google Drive] e coloque dentro da pasta dataset(https://drive.google.com/drive/folders/1pzUiazh12EwBc7Lu5L0o-4wX4g9V5ybU?usp=drive_link).
 
 ✨ Autor
 Guilherme Rodrigues de Quadros
